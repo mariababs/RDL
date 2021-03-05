@@ -1,10 +1,4 @@
 
-# Description: 
-# Get all of our data in a .tdms file but we can't really use it 
-# since we have to do a bunch of stuff to it and it's like millions of cells
-# of data that we don't need, so we need a program that'll take the .tdms
-# and reduce the data and put it into a form thats easy to analyze.
-
 from nptdms import TdmsFile as td
 import os
 import pandas as pd
