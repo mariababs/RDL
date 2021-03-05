@@ -1,5 +1,6 @@
 # RDL- dataFileReduction
-This is a program that takes the raw data acquired from labview in a .tdms file from testing at the test cell, and reduces it for a final output .xlsx file that is easier to use for data reviewp and saves storage. 
+This is a program that takes the raw data acquired from labview in a .tdms file from testing at the test cell, 
+and reduces it for a final output .xlsx file that is easier to use for data reviewp and saves storage. 
 
 To use:
 Download this folder.
