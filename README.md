@@ -5,7 +5,7 @@ and reduces it for a final output .xlsx file that is easier to use for data revi
 To use:
 Download this folder.
 Open the command prompt. This can be done by typing `cmd` into the search bar on windows. 
-Change the directory of the command prompt to the direcoty where the `dataFileReduction.py` file is located.
+Change the directory of the command prompt to the directory where the `dataFileReduction.py` file is located.
 This can be done by typing `cd c:\XXX\XXX\` and pressing enter. 
 Then type `python dataReductionFile.py` and press enter to run the script.
 The script will then prompt for the path location of the .tdms file on the computer. This can 
